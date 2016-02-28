@@ -2,7 +2,7 @@
 layout: post
 title: 个人简历
 ---                          
-<!--<img src="" align ="right" style="width:120px;height:150px;"/>               -->
+<img src="https://avatars1.githubusercontent.com/u/8780716?v=3&s=460" align ="right" style="width:120px;height:150px;"/>               
 
 ###基本资料                              
 **姓名**: 赵远               
