@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-02-28 18:23:51 +0800
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+title: 个人简历
+---                          
+<!--<img src="" align ="right" style="width:120px;height:150px;"/>               -->
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+###基本资料                              
+**姓名**: 赵远               
+**性别**: 男               
+**生日**: 1994/12/22               
+**学历**: 本科/2017年6月份毕业            
+**联系方式**:15261816175/qq:1044523901            
+**Github主页**：<strong><a href="https://github.com/zhaoxiaobao" target="_blank">github.com/zhaoxiaobao</a></strong>                    
+**个人blog**:<strong><a href="http://my.oschina.net/zhaoxiaobao" target="_blank">http://my.oschina.net/zhaoxiaobao(●—●)</a></strong>
 
-Jekyll also offers powerful support for code snippets:
+###学习经历     
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+>2013.9~2017.6 (南京大学金陵学院/信息工程与工程学院/软件工程)---本科     
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+###技能清单       （使用时间以及熟练程序依次递减）            
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+###项目经验       (按照参与时间和程度排序)         
+
+
+
