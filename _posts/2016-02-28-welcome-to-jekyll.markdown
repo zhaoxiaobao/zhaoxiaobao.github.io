@@ -80,7 +80,7 @@ title: 个人简历
 
    **个人职责**：志愿者
 
-###其他                             
+### 其他                             
 <img src="/zp/img/2.png" align ="right" style="width:120px;height:120px;"/>
 - **本电子简历采用MarkDown调试，通过jekyll和github服务器搭建**              
 - 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="/" target="_blank">简历下载</a></strong>。   
