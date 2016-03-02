@@ -107,6 +107,7 @@ title: 个人简历
 
 -  2015/2~2015/3
     [**浦苑商城**](http://puyshop.cn/)  ([***git地址***](https://github.com/zhaoxiaobao/puyshop)) 
+
     **项目描述**：该项目是自己带领团队参加中国大学生计算机设计大赛参赛项目，获得了国赛二等奖（[证书](http://zhaoxiaobao.github.io/zp/app-other.html)。
 
     **个人职责**：
