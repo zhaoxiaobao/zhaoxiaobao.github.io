@@ -49,7 +49,7 @@ title: 个人简历
     **项目参与度**：100%（整个项目由个人独立完成）
 
 -  2015/6~2015/9
-    [**72变**](/zp/app-72.html)  ([***介绍***](/zp/app-72.html))  
+    [**72变**](/zp/app-72.html)  ([***介绍***](/zp/app-72bian.html))  
     **项目描述**：这个项目是众包平台。雇主将生活中的各类需求以任务的形式发布，雇佣兵夺标后完成任务并获得赏金。旨在为广大用户在日常生活中提供“72种便利”。该项目是自己参与比较早的，主要负责ios客户端界面的编写。
 
     **个人职责**：用Masonry和代码实现页面布局   
@@ -59,7 +59,7 @@ title: 个人简历
 ### 其他项目经验       (按照参与时间和程度排序)  
 
 -  2015/2~2015/4
-    [**浦苑商城**](http://puyshop.cn/)  ([***介绍***](/zp/app-puyshop.html))  ([***git***](https://github.com/zhaoxiaobao/puyshop)) 
+    [**浦苑商城**](http://puyshop.cn/)  ([***介绍***](http://puyshop.cn/))  ([***git***](https://github.com/zhaoxiaobao/puyshop)) 
     **项目描述**：《浦苑商城》是面向校园内及周边店铺开发的网上商品信息展示平台，不仅可以让校内外的商家多了销售商品的渠道，促进商家商品销售，而且校园内的学生和教职工可以通过该网站非常快捷地获得周边店铺商品的信息，在购物之前，提前获得校内外商铺中的商品信息，在购物时目标性更强。是该项目核心负责人。
 
     **个人职责**：利用寒假一个月的时间入手php，自己设计数据库，和模块功能设计，用tp框架搭建的简易商城。
@@ -67,7 +67,7 @@ title: 个人简历
     **项目参与度**：100%（整个项目由个人独立完成）
 
 -  2014/12~2015/2
-[**兼职通**](/zp/app-lygl.html)  ([***介绍***](http://baike.baidu.com/link?url=bgz7fUyWxZ8hwWFyz7EYBdxWP_CYwl8ckKegFGAN0XO1K7jU-ACq9AlTYXhdVq9p3nYsXNUqrbsma0tgF_9YQq))  
+[**兼职通**]()  ([***介绍***](http://baike.baidu.com/link?url=bgz7fUyWxZ8hwWFyz7EYBdxWP_CYwl8ckKegFGAN0XO1K7jU-ACq9AlTYXhdVq9p3nYsXNUqrbsma0tgF_9YQq))  
     **项目描述**：这是一个大学生创业的项目，印象比较深刻，大二时结识了一群优秀的小伙伴。该项目成功拿到了300万的风投，是团队早期成员。
 
     **个人职责**：自学html，css，js，负责兼职通线上平台前端模块编写。
