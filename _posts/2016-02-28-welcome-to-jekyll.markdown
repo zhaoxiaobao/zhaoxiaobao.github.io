@@ -11,7 +11,7 @@ title: 个人简历
 **性别**: 男               
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
-**联系方式**:15261816175/qq:1044523901            
+**联系方式**:15261816175/qq:1044523901／15261816175@139.com            
 **Github主页**：<strong><a href="https://github.com/zhaoxiaobao" target="_blank">github.com/zhaoxiaobao</a></strong>                    
 **个人blog**:<strong><a href="http://zhaoxiaobao.github.io" target="_blank">http://zhaoxiaobao.github.io(●—●)</a></strong>
 
@@ -139,6 +139,6 @@ title: 个人简历
 - 利用ffmpeg对某直播平台rtmp流的视频解码（[git地址](https://github.com/zhaoxiaobao/inke-ios)）            
 - 参加过开源中国第[29](http://www.oschina.net/question/865233_178865)，[40](http://www.oschina.net/question/1765084_2137883)期南京源创会              
 - **本电子简历采用MarkDown调试，通过jekyll和github服务器搭建**              
-- 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" target="_blank">简历下载</a></strong>。   
+- 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" target="_blank">简历下载</a></strong>word文档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.docx" target="_blank">简历下载</a></strong>。   
 
 
