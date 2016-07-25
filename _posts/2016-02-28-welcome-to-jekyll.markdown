@@ -15,7 +15,7 @@ title: 个人简历
 **Github**:<strong><a href="https://github.com/zhaoxiaobao" target="_blank">打开请戳->(●—●)</a></strong>                    
 **Segmentfault**:<strong><a href="https://segmentfault.com/u/zhaoyuan" target="_blank">打开请戳->(●—●)</a></strong>
 
-## 学习经历     
+### 学习经历     
 
 >2013.9~2017.6 (南京大学金陵学院/信息科学与工程学院/软件工程)---本科     
 
@@ -32,7 +32,7 @@ title: 个人简历
 - 10.熟练使用git和svn,熟练Unix/Linux终端下基本操作。
 - 11.了解ffmpeg在iOS平台下视频的编解码，熟悉rtmp协议，以及rtmp协议下直播平台的推拉流。     
 
-## 项目经验 (按照参与时间和程度排序，请戳项目标题部分功能截图)  
+### 项目经验 (按照参与时间和程度排序，请戳项目标题部分功能截图)  
 -  ### 2016/7~至今
 
   ** FaceNow 实习**  
@@ -135,7 +135,7 @@ title: 个人简历
 
    ** 项目描述 **：和技术无关，也格格不入。但是大一暑假忙活了近两个月，黑了一圈，决定写下这段经历~
 
-### 最后                             
+### 写在最后                             
 <img src="/img/2.png" align ="right" style="width:120px;height:120px;"/>
 - 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[140 star](https://github.com/zhaoxiaobao/inke-ios)            
 - 参加过开源中国第[29](http://www.oschina.net/question/865233_178865)，[40](http://www.oschina.net/question/1765084_2137883)期南京源创会，参加过2016阿里云栖大会南京峰会。             
