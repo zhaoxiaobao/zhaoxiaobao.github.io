@@ -142,7 +142,8 @@ title: 个人简历
 
 <!--### 写在最后                             -->
 <!--<img src="/img/2.png" align ="right" style="width:120px;height:120px;"/>-->
-<!--- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[140 star](https://github.com/zhaoxiaobao/inke-ios)            -->
+<!--- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->
+<!--[140 star](https://github.com/zhaoxiaobao/inke-ios)            -->-->
 <!--- 参加过开源中国第[29](http://www.oschina.net/question/865233_178865)，[40](http://www.oschina.net/question/1765084_2137883)期南京源创会，参加过2016阿里云栖大会南京峰会。             -->
 <!--- **本电子简历采用MarkDown调试，通过jekyll和github服务器搭建**              -->
 <!--- 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" target="_blank">简历下载</a></strong>word文档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.docx" target="_blank">简历下载</a></strong>。   -->
