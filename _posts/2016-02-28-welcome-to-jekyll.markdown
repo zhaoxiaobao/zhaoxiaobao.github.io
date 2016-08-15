@@ -10,12 +10,14 @@ title:  个人简历
 **性别**: 男               
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
-**联系方式**:15261816175/wx:loveforhy／15261816175@139.com            
-**Github**:<strong><a href="https://github.com/zhaoxiaobao" target="_blank">打开请戳->(●—●)(140+ star , 38 followers)</a></strong>                    
-**个人博客**:<strong><a href="https://github.com/zhaoxiaobao/dev-blog/tree/master/2016" target="_blank">打开请戳->(●—●) (some  articles)</a></strong>
-**Segmentfault**:<strong><a href="https://segmentfault.com/u/zhaoyuan" target="_blank">打开请戳->(●—●)(140+  reputation)</a></strong>
-**Stackoverflow**:<strong><a href="stackoverflow.com/users/6132641/yuan-zhao" target="_blank">打开请戳->(●—●)(14+  reputation)</a></strong>
-**开源中国**:<strong><a href="my.oschina.net/zhaoxiaobao/home" target="_blank">打开请戳->(●—●)(65+  reputation)</a></strong>
+**联系方式**:15261816175/wx:loveforhy/15261816175@139.com
+**求职意向**: iOS研发，薪资面议，目前大四可全职。             
+
+- Github:[打开请戳->(●—●)](https://github.com/zhaoxiaobao)
+- 个人博客:[打开请戳->(●—●)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
+- Segmentfault:[打开请戳->(●—●)(140+  reputation)](https://segmentfault.com/u/zhaoyuan)
+- Stackoverflow:[打开请戳->(●—●)(14+  reputation)](stackoverflow.com/users/6132641/yuan-zhao)
+- 开源中国 :[打开请戳->(●—●)(65+  reputation)](my.oschina.net/zhaoxiaobao/home)
 
 ### 学习经历     
 
@@ -84,32 +86,30 @@ title:  个人简历
 
     [ 轻松学车 ](/zp/app-qsxc.html)   
 
-    项目描述
-    ：这个项目是驾校的约驾平台。主要功能是学员线上约车。早期入门时候想方设法找项目参与进去，这个就是自己利用业余时间参与一个初创团队做的项目，就是那种只差一个程序员的创业项目。
+    项目描述：这个项目是驾校的约驾平台。主要功能是学员线上约车。早期入门时候想方设法找项目参与进去，这个就是自己利用业余时间参与一个初创团队做的项目，就是那种只差一个程序员的创业项目。
 
     项目参与度 ：40%（部分项目）
 
     个人职责 ：
+    1. 利用高德地图在客户端实现定位，位置搜索，地图标注等功能。
+    2. 写界面，写界面，写界面，不重要的事也说三遍。
+    3. 学着使用各种轮子，后期再考虑造轮子。
 
-      1. 利用高德地图在客户端实现定位，位置搜索，地图标注等功能。
-      2. 写界面，写界面，写界面，不重要的事也说三遍。
-      3. 学着使用各种轮子，后期再考虑造轮子。
 
 - ###  2015/1~2015/5
 
-    [ 72变 ](/zp/app-72bian.html)  
+    [ 72变众包平台](/zp/app-72bian.html)  
 
     项目描述 ：这个项目是众包平台。该项目是自己参与比较早的APP项目，主要负责iOS客户端界面的编写。
 
     项目参与度 ：30%（部分UI）
 
-    个人职责 ：
+    个人职责
+    1. 用AutoLayout和代码实现页面布局。
+    2. 没什么可说的，早期刚学所以会有些小项目。
+    3. 大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的地方。
 
-      1. 用AutoLayout和代码实现页面布局。
-      2. 没什么可说的，早期刚学所以会有些小项目。
-      3. 大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的。
-
-### 其他 (很感谢能耐着性子读下来)  
+### 其他
 
 - ### 2014/11~2015/3
 
