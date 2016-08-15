@@ -13,11 +13,11 @@ title:  个人简历
 **联系方式**:15261816175/wx:loveforhy/15261816175@139.com
 **求职意向**: iOS研发，薪资面议，目前大四可全职。             
 
-- Github:[打开请戳->(●—●)](https://github.com/zhaoxiaobao)
-- 个人博客:[打开请戳->(●—●)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
+- Github:[打开请戳->(●—●)(140+ star , 38 followers)](https://github.com/zhaoxiaobao)
+- 个人博客:[打开请戳->(●—●) (some  articles)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
 - Segmentfault:[打开请戳->(●—●)(140+  reputation)](https://segmentfault.com/u/zhaoyuan)
-- Stackoverflow:[打开请戳->(●—●)(14+  reputation)](stackoverflow.com/users/6132641/yuan-zhao)
-- 开源中国 :[打开请戳->(●—●)(65+  reputation)](my.oschina.net/zhaoxiaobao/home)
+- Stackoverflow:[打开请戳->(●—●)(14+  reputation)](http://stackoverflow.com/users/6132641/yuan-zhao)
+- 开源中国 :[打开请戳->(●—●)(65+  reputation)](http://my.oschina.net/zhaoxiaobao/home)
 
 ### 学习经历     
 
@@ -90,10 +90,7 @@ title:  个人简历
 
     项目参与度 ：40%（部分项目）
 
-    个人职责 ：
-    1. 利用高德地图在客户端实现定位，位置搜索，地图标注等功能。
-    2. 写界面，写界面，写界面，不重要的事也说三遍。
-    3. 学着使用各种轮子，后期再考虑造轮子。
+    个人职责 ：利用高德地图在客户端实现定位，位置搜索，地图标注等功能。写界面，写界面，写界面，不重要的事也说三遍。学着使用各种轮子，后期再考虑造轮子。
 
 
 - ###  2015/1~2015/5
@@ -104,10 +101,7 @@ title:  个人简历
 
     项目参与度 ：30%（部分UI）
 
-    个人职责
-    1. 用AutoLayout和代码实现页面布局。
-    2. 没什么可说的，早期刚学所以会有些小项目。
-    3. 大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的地方。
+    个人职责 ：用AutoLayout和代码实现页面布局。没什么可说的，早期刚学所以会有些小项目。大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的地方。
 
 ### 其他
 
