@@ -11,8 +11,11 @@ title:  个人简历
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
 **联系方式**:15261816175/wx:loveforhy／15261816175@139.com            
-**Github**:<strong><a href="https://github.com/zhaoxiaobao" target="_blank">打开请戳->(●—●)</a></strong>                    
-**Segmentfault**:<strong><a href="https://segmentfault.com/u/zhaoyuan" target="_blank">打开请戳->(●—●)</a></strong>
+**Github**:<strong><a href="https://github.com/zhaoxiaobao" target="_blank">打开请戳->(●—●)(140+ star , 38 followers)</a></strong>                    
+**个人博客**:<strong><a href="https://github.com/zhaoxiaobao/dev-blog/tree/master/2016" target="_blank">打开请戳->(●—●) (some  articles)</a></strong>
+**Segmentfault**:<strong><a href="https://segmentfault.com/u/zhaoyuan" target="_blank">打开请戳->(●—●)(140+  reputation)</a></strong>
+**Stackoverflow**:<strong><a href="stackoverflow.com/users/6132641/yuan-zhao" target="_blank">打开请戳->(●—●)(14+  reputation)</a></strong>
+**开源中国**:<strong><a href="my.oschina.net/zhaoxiaobao/home" target="_blank">打开请戳->(●—●)(65+  reputation)</a></strong>
 
 ### 学习经历     
 
@@ -34,11 +37,11 @@ title:  个人简历
 
 ### 项目经验 (按照参与时间和程度排序，请戳项目标题部分功能截图)
 
--  ### 2016/7~至今  FaceNow
+-  ### 2016/7~至今  
 
-   项目描述 ： 海外直播平台
+   项目描述 ： [FaceNow](/zp/facenow.html)海外直播平台
 
-   个人职责 ： iOS平台下视频推拉流研发
+   个人职责 ： iOS平台下视频推拉流研发，了解更多[请戳->(●—●)](https://github.com/zhaoxiaobao/dev-blog/blob/master/2016/FaceNow总结.md)
 
 -  ###  2015/11~2016.5
 
