@@ -11,7 +11,7 @@ title:  个人简历
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
 **联系方式**:15261816175/wx:loveforhy/15261816175@139.com
-**求职意向**: iOS研发，薪资面议，目前大四可全职。             
+<!--**求职意向**: iOS研发，薪资面议，目前大四可全职。             -->
 
 - Github:[打开请戳->(●—●)(140+ star , 38 followers)](https://github.com/zhaoxiaobao)
 - 个人博客:[打开请戳->(●—●) (some  articles)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
