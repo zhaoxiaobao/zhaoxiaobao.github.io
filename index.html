@@ -2,24 +2,30 @@
 layout: default
 title: 赵远
 ---
-
-  <div class="top-strip"></div>
-  <div class="content">
+<div class="top-strip">
+</div>
+<div class="content">
     <main class="container">
-      <div class="row-fluid">
-        <ul class="entries">
-        {% for post in paginator.posts %}
-          <li>
-            <a href="{{ post.url }}">
-                      <span>{{ post.date | date: "%d %B %Y" }}</span>
-                <h3>赵远</h3>
-                    <h5>了解更多的我，点击进入个人简历 ...</h5>
-            </a>
-          </li>
-        {% endfor %}
-        </ul>
-      </div>
-      <hr>
-
+        <div class="row-fluid">
+            <ul class="entries">
+                {% for post in paginator.posts %}
+                <li>
+                    <a href="{{ post.url }}">
+                        <span>
+                            {{ post.date | date: "%d %B %Y" }}
+                        </span>
+                        <h3>
+                            赵远
+                        </h3>
+                        <h5>
+                            了解更多的我，点击进入个人简历 ...
+                        </h5>
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <hr>
+        </hr>
     </main>
-  </div>
+</div>

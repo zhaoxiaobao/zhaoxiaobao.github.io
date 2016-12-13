@@ -3,51 +3,36 @@ layout: post
 title:  个人简历
 ---                          
 
-<img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>               
-
 ### 基本资料                              
 **姓名**: 赵远               
 **性别**: 男               
-**生日**: 1994/12/22               
-**学历**: 本科/2017年6月份毕业/CET-4           
+**学历**: 本科          
 **联系方式**:15261816175/wx:loveforhy/15261816175@139.com
-<!--**求职意向**: iOS研发，薪资面议，目前大四可全职。             -->
+**期望职位**: 研发工程师
+**期望薪资**: 8k~10k   
+**住址**: 南京市鼓楼区      
 
 - Github:[打开请戳->(●—●)(140+ star , 38 followers)](https://github.com/zhaoxiaobao)
-- 个人博客:[打开请戳->(●—●) (some  articles)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
 - Segmentfault:[打开请戳->(●—●)(140+  reputation)](https://segmentfault.com/u/zhaoyuan)
 - Stackoverflow:[打开请戳->(●—●)(14+  reputation)](http://stackoverflow.com/users/6132641/yuan-zhao)
 - 开源中国 :[打开请戳->(●—●)(65+  reputation)](http://my.oschina.net/zhaoxiaobao/home)
 
-### 学习经历     
+### 相关经验
 
->2013.9~2017.6 (南京大学金陵学院/信息科学与工程学院/软件工程)---本科     
+- 1. 两年全栈开发经验
+- 2. 两年iOS开发经验，多个上线项目
+- 3. 一年流媒体开发经验，熟悉ffmpeg
+- 4. 半年React经验，半年Vue经验
+     
+### 项目经验 
 
-### 技能清单       
+-  ###   
 
-- 1.了解C/C++，熟练掌握Objective-C，具有良好的编码习惯。
-- 2.熟练掌握Objective-C内存管理，block语法的使⽤。
-- 3.熟练使⽤用MVC，代理，单例，观察者等常⽤的设计模式。
-- 4.熟悉iOS多线程编程及数据存储方案。
-- 5.熟悉Objective-C runtime，iOS runloop机制。
-- 6.熟练使⽤AFNetworking，SDWebImage，MBProgressHUD等第三⽅方框架。
-- 7.熟悉Http,Https,TCP/UDP通讯机制，熟悉json/xml解析。
-- 8.熟练使用Xcode IDE,Interface builder UI设计工具，熟悉AutoLayout,熟悉代码编写界面。
-- 9.熟悉iOS的基本界⾯面组件应⽤。
-- 10.熟练使用git和svn,熟练Unix/Linux终端下基本操作。
-- 11.熟悉ffmpeg在iOS平台下视频的编解码，熟悉rtmp协议，以及rtmp协议下直播平台的推拉流。     
+   项目描述 ： [FaceNow](/zp/facenow.html)海外直播平台，主要负责iOS平台下流媒体研发。
 
-### 项目经验 (按照参与时间和程度排序，请戳项目标题部分功能截图)
+-  ###  
 
--  ### 2016/7~至今  
-
-   项目描述 ： [FaceNow](/zp/facenow.html)海外直播平台
-
-   个人职责 ： iOS平台下视频推拉流研发，了解更多[请戳->(●—●)](https://github.com/zhaoxiaobao/dev-blog/blob/master/2016/FaceNow总结.md)
-
--  ###  2015/11~2016.5
-
-    [ 南京市助残志愿者云平台 ](/zp/app-njzc.html)  ([ AppStore搜索易点公益下载     ](https://itunes.apple.com/us/app/nan-jing-zhu-can-yun-ping-tai/id1079831240?l=zh&ls=1&mt=8))    
+    [ 易点公益 ](/zp/app-njzc.html) 
     项目描述 ：
     这个项目是南京市残联组织的公益项目，整个iOS客户端由我独立完成。也是我接触比较复杂的项目，项目功能有志愿者打卡签到，报名发布活动，志愿者   积分兑换商品，报名发布项目等，以及一个小型商城系统。志愿者通过客户端扫描二维码读取活动信息，记录志愿记录。志愿者通过客户端参与公益活动，以及进行义卖活动等。
 
@@ -103,32 +88,14 @@ title:  个人简历
 
     个人职责 ：用AutoLayout和代码实现页面布局。没什么可说的，早期刚学所以会有些小项目。大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的地方。
 
-### 其他
-
-- ### 2014/11~2015/3
 
     浦苑商城  [git地址](https://github.com/zhaoxiaobao/puyshop)
 
     项目描述 ：该项目是自己带领团队参加中国大学生计算机设计大赛参赛项目，获得了国赛二等奖[证书](http://zhaoxiaobao.github.io/zp/app-other.html)。
 
--   ### 2014/10~2015/2
-
     [ 兼职通 ](http://baike.baidu.com/link?url=bgz7fUyWxZ8hwWFyz7EYBdxWP_CYwl8ckKegFGAN0XO1K7jU-ACq9AlTYXhdVq9p3nYsXNUqrbsma0tgF_9YQq)  
 
     项目描述 ：这是一个大学生创业的项目，印象比较深刻，大学早起时结识了一群优秀的小伙伴。该项目也成功拿到了300万的风投，是技术团队早期成员。项目开发成员共五人，两人做移动端，两人做后台，一人做前端。通过worktile远程协同开发，自建gitlab进行代码版本控制。
 
--  ### 2014/7~2014/9
 
-   南京青奥志愿者 [证书](/zp/app-other.html)
 
-   项目描述 ：和技术无关，也格格不入。但是大一暑假忙活了近两个月，黑了一圈，决定写下这段经历~
-
-### 写在最后                             
-<img src="/img/2.png" align ="right" style="width:120px;height:120px;"/>
-- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[140 star](https://github.com/zhaoxiaobao/inke-ios)            
-- 参加过开源中国第[29](http://www.oschina.net/question/865233_178865)，[40](http://www.oschina.net/question/1765084_2137883)期南京源创会，参加过2016阿里云栖大会南京峰会。             
-- **本电子简历采用MarkDown调试，通过jekyll和github服务器搭建**              
-- 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" target="_blank">简历下载</a></strong>word文档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.docx" target="_blank">简历下载</a></strong>。   
-
----
-2016.7.24 校招更新简历

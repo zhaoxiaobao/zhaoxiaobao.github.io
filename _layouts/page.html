@@ -1,28 +1,35 @@
 ---
 layout: default
 ---
-
-<div class="top-strip"></div>
+<div class="top-strip">
+</div>
 <main class="content">
     <section class="container">
-    	<div class="row-fluid">
-    		<article class="home-icon">
-				<a href="/2015/11/01/resume.html">
-					<i class="icon-home"></i> 
-				</a>
-			</article>
-			<article class="post">
-				<!--<h5>{{ page.date | date: "%d %B %Y" }}</h5>-->
-				<h2 class="content">{{page.title}}</h2>
-				
-				<section>
-					{{ content }}
-					<hr>
-				</section>
-				<section style="font-weight:bold; margin-bottom: 2em;">
-							<a rel="prev" class="a-hover"href="http://zhaoxiaobao.github.io"><i class="icon-double-angle-left"></i> 返回简历页面</a>
-					</section>
-			</article>
-		</div>
-	</section>
+        <div class="row-fluid">
+            <article class="home-icon">
+                <a href="/2015/11/01/resume.html">
+                    <i class="icon-home">
+                    </i>
+                </a>
+            </article>
+            <article class="post">
+                <!--<h5>{{ page.date | date: "%d %B %Y" }}</h5>-->
+                <h2 class="content">
+                    {{page.title}}
+                </h2>
+                <section>
+                    {{ content }}
+                    <hr>
+                    </hr>
+                </section>
+                <section style="font-weight:bold; margin-bottom: 2em;">
+                    <a class="a-hover" href="http://zhaoxiaobao.github.io" rel="prev">
+                        <i class="icon-double-angle-left">
+                        </i>
+                        返回简历页面
+                    </a>
+                </section>
+            </article>
+        </div>
+    </section>
 </main>
