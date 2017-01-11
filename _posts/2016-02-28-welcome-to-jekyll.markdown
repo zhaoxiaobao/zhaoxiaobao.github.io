@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  个人简历
----   
+---                          
 
-<img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>                       
+<img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>               
+
 ### 基本资料     
 
 **姓名**: 赵远               
