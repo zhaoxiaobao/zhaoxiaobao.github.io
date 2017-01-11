@@ -18,7 +18,7 @@ title:  个人简历
 - Segmentfault:[打开请戳->(●—●)(140+  reputation)](https://segmentfault.com/u/zhaoyuan)
 - Stackoverflow:[打开请戳->(●—●)(50+  reputation)](http://stackoverflow.com/users/6132641/yuan-zhao)
 - 开源中国 :[打开请戳->(●—●)(65+  reputation)](http://my.oschina.net/zhaoxiaobao/home)
-- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[150+ star](https://github.com/zhaoxiaobao/inke-ios) 
+- 利用ffmpeg对某直播平台rtmp流视频解码-->[150+ star](https://github.com/zhaoxiaobao/inke-ios) 
 
 ### 学习经历     
 
