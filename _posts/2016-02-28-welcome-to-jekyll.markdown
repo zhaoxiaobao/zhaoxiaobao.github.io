@@ -4,131 +4,67 @@ title:  个人简历
 ---                          
 
 <img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>               
-
 ### 基本资料                              
 **姓名**: 赵远               
 **性别**: 男               
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
 **联系方式**:15261816175/wx:loveforhy/15261816175@139.com
-<!--**求职意向**: iOS研发，薪资面议，目前大四可全职。             -->
+**求职意向**: iOS研发            
 
-- Github:[打开请戳->(●—●)(140+ star , 38 followers)](https://github.com/zhaoxiaobao)
+- Github:[打开请戳->(●—●)(150+ star , 40+ followers)](https://github.com/zhaoxiaobao)
 - 个人博客:[打开请戳->(●—●) (some  articles)](https://github.com/zhaoxiaobao/dev-blog/tree/master/2016)
 - Segmentfault:[打开请戳->(●—●)(140+  reputation)](https://segmentfault.com/u/zhaoyuan)
-- Stackoverflow:[打开请戳->(●—●)(14+  reputation)](http://stackoverflow.com/users/6132641/yuan-zhao)
+- Stackoverflow:[打开请戳->(●—●)(50+  reputation)](http://stackoverflow.com/users/6132641/yuan-zhao)
 - 开源中国 :[打开请戳->(●—●)(65+  reputation)](http://my.oschina.net/zhaoxiaobao/home)
+- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[150+ star](https://github.com/zhaoxiaobao/inke-ios) 
 
 ### 学习经历     
 
->2013.9~2017.6 (南京大学金陵学院/信息科学与工程学院/软件工程)---本科     
+> 2013.9~2017.6 (南京大学金陵学院/信息科学与工程学院/软件工程)---本科 
 
-### 技能清单       
+### 工作经历     
 
-- 1.了解C/C++，熟练掌握Objective-C，具有良好的编码习惯。
-- 2.熟练掌握Objective-C内存管理，block语法的使⽤。
-- 3.熟练使⽤用MVC，代理，单例，观察者等常⽤的设计模式。
-- 4.熟悉iOS多线程编程及数据存储方案。
-- 5.熟悉Objective-C runtime，iOS runloop机制。
-- 6.熟练使⽤AFNetworking，SDWebImage，MBProgressHUD等第三⽅方框架。
-- 7.熟悉Http,Https,TCP/UDP通讯机制，熟悉json/xml解析。
-- 8.熟练使用Xcode IDE,Interface builder UI设计工具，熟悉AutoLayout,熟悉代码编写界面。
-- 9.熟悉iOS的基本界⾯面组件应⽤。
-- 10.熟练使用git和svn,熟练Unix/Linux终端下基本操作。
-- 11.熟悉ffmpeg在iOS平台下视频的编解码，熟悉rtmp协议，以及rtmp协议下直播平台的推拉流。     
+- 2016.9 - 至今   在南京第三极软件科技有限公司实习  
 
-### 项目经验 (按照参与时间和程度排序，请戳项目标题部分功能截图)
+### 专业能力
 
--  ### 2016/7~至今  
+- 熟悉Cocoa Touch框架, 熟练使用Objective-C语言，具有良好的编码习惯。
+- 熟练使用git和svn,熟练Unix/Linux终端下基本操作。
 
-   项目描述 ： [FaceNow](/zp/facenow.html)海外直播平台
+### 其他技能
 
-   个人职责 ： iOS平台下视频推拉流研发，了解更多[请戳->(●—●)](https://github.com/zhaoxiaobao/dev-blog/blob/master/2016/FaceNow总结.md)
+- 略懂js,略懂react.js，略懂vue.js等。
 
--  ###  2015/11~2016.5
+### 部分作品 
+
+-  ###  FaceNow
+
+   项目描述 ： [FaceNow](/zp/facenow.html)海外直播平台，主要负责iOS平台下视频推拉流。
+
+-  ###  易点公益
 
     [ 南京市助残志愿者云平台 ](/zp/app-njzc.html)  ([ AppStore搜索易点公益下载     ](https://itunes.apple.com/us/app/nan-jing-zhu-can-yun-ping-tai/id1079831240?l=zh&ls=1&mt=8))    
-    项目描述 ：
-    这个项目是南京市残联组织的公益项目，整个iOS客户端由我独立完成。也是我接触比较复杂的项目，项目功能有志愿者打卡签到，报名发布活动，志愿者   积分兑换商品，报名发布项目等，以及一个小型商城系统。志愿者通过客户端扫描二维码读取活动信息，记录志愿记录。志愿者通过客户端参与公益活动，以及进行义卖活动等。
 
-    项目参与度 ：100%（整个项目由个人独立完成）
+    项目描述 ：这个项目是南京市残联组织的公益项目，项目功能有志愿者打卡签到，报名发布活动，志愿者积分兑换商品，报名发布项目等，以及一个小型商城系统。志愿者通过客户端扫描二维码读取活动信息，记录志愿记录。志愿者通过客户端参与公益活动，以及进行义卖活动等。
 
-    个人职责 ：
+-  ### 长城宽带
 
-      1. 和后台人员沟通参与项目所有逻辑功能的实现，编写客户端所有界面，优化界面性能。
-      2. 使⽤用block实现网络请求成功和失败的回调，解析json数据。
-      3. 实现字典和模型互转。
-      4. 封装部分自用UI控件。
-      5. 实现软件内部⾃动检测更新。
-      6. 使⽤pop动画增强⽤用户体验。
-      7. 利⽤用GCD实现单例，通知，和代理实现类和类之间的通信。
-      8. NSUserDefaults本地存储⽤用户信息。
-      9. 利用第三方接口实现分享和支付功能。熟悉微信登录与微信支付业务流程和接口规范。
+    [路由器管理平台](/zp/app-lygl.html)  [  AppStore下载  ](https://itunes.apple.com/us/app/lu-you-guan-li/id1061866839?l=zh&ls=1&mt=8)
 
--  ###  2015/9~2015/11
+    项目描述：项目主要的目标是能适配市面上的各种常用路由器，简化用户对路由器的配置过程。该项目主要包括网速管理，网络优化，查看路由器当前终端设备，实现网络环境评分，路由设置等功能（早期版本适配对象斐讯300M）。
 
-    [路由器管理平台](/zp/app-lygl.html)  [  AppStore下载  ](https://itunes.apple.com/us/app/lu-you-guan-li/id1061866839?l=zh&ls=1&mt=8)   [git地址](https://github.com/zhaoxiaobao/luyou-ios)
-
-    项目描述：这个项目是我跟着老师做的一个项目，项目主要的目标是能适配市面上的各种常用路由器，简化用户对路由器的配置过程。前期老师做需求分析，后期由我一人独立实现各个功能。该项目主要包括网速管理，网络优化，查看路由器当前终端设备，实现网络环境评分，路由设置等功能（早期版本适配对象斐讯300M），项目所有逻辑实现由个人完成。
-
-    项目参与度 ：100%（整个项目由个人独立完成）
-
-    个人职责 ：
-
-      1. 通过charles抓取路由器的http数据请求，通过Xpath选择器实现对html文档的数据解析。
-      2. 编写下载类利用AFN下载远程文件，实现网络测速。
-      3. 利用UIView动画实现评分仪表盘效果。
-      4. 用NSURLConnection向路由器发出模拟请求，破解路由器登录认证，用base64编码对客户端信息简易加密。
-      5. 第一版完成对斐讯300M适配功能。
-
-
-- ### 2015/6~2015/9
+- ### 轻松学车
 
     [ 轻松学车 ](/zp/app-qsxc.html)   
 
-    项目描述：这个项目是驾校的约驾平台。主要功能是学员线上约车。早期入门时候想方设法找项目参与进去，这个就是自己利用业余时间参与一个初创团队做的项目，就是那种只差一个程序员的创业项目。
+    项目描述：这个项目是驾校的约驾平台。主要功能是学员线上约车。
 
-    项目参与度 ：40%（部分项目）
-
-    个人职责 ：利用高德地图在客户端实现定位，位置搜索，地图标注等功能。写界面，写界面，写界面，不重要的事也说三遍。学着使用各种轮子，后期再考虑造轮子。
-
-
-- ###  2015/1~2015/5
+- ###  众包平台
 
     [ 72变众包平台](/zp/app-72bian.html)  
-
-    项目描述 ：这个项目是众包平台。该项目是自己参与比较早的APP项目，主要负责iOS客户端界面的编写。
-
-    项目参与度 ：30%（部分UI）
-
-    个人职责 ：用AutoLayout和代码实现页面布局。没什么可说的，早期刚学所以会有些小项目。大大小小的项目的确多点些，也比较粗糙，一方面参与这些项目是想学点东西，另一方面是想做点创收，毕竟还是有很多要用钱的地方。
-
-### 其他
-
-- ### 2014/11~2015/3
-
-    浦苑商城  [git地址](https://github.com/zhaoxiaobao/puyshop)
-
-    项目描述 ：该项目是自己带领团队参加中国大学生计算机设计大赛参赛项目，获得了国赛二等奖[证书](http://zhaoxiaobao.github.io/zp/app-other.html)。
-
--   ### 2014/10~2015/2
-
-    [ 兼职通 ](http://baike.baidu.com/link?url=bgz7fUyWxZ8hwWFyz7EYBdxWP_CYwl8ckKegFGAN0XO1K7jU-ACq9AlTYXhdVq9p3nYsXNUqrbsma0tgF_9YQq)  
-
-    项目描述 ：这是一个大学生创业的项目，印象比较深刻，大学早起时结识了一群优秀的小伙伴。该项目也成功拿到了300万的风投，是技术团队早期成员。项目开发成员共五人，两人做移动端，两人做后台，一人做前端。通过worktile远程协同开发，自建gitlab进行代码版本控制。
-
--  ### 2014/7~2014/9
-
-   南京青奥志愿者 [证书](/zp/app-other.html)
-
-   项目描述 ：和技术无关，也格格不入。但是大一暑假忙活了近两个月，黑了一圈，决定写下这段经历~
-
-### 写在最后                             
-<img src="/img/2.png" align ="right" style="width:120px;height:120px;"/>
-- 利用ffmpeg对某直播平台rtmp流的视频解码->请戳-->[140 star](https://github.com/zhaoxiaobao/inke-ios)            
-- 参加过开源中国第[29](http://www.oschina.net/question/865233_178865)，[40](http://www.oschina.net/question/1765084_2137883)期南京源创会，参加过2016阿里云栖大会南京峰会。             
-- **本电子简历采用MarkDown调试，通过jekyll和github服务器搭建**              
-- 这是简历的网络版本，地址[zhaoxiaobao.github.io](http://zhaoxiaobao.github.io) ，或者扫描右侧**二维码**。PDF电子档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.pdf" target="_blank">简历下载</a></strong>word文档可戳<strong><a href="http://zhaoxiaobao.github.io/zp/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.docx" target="_blank">简历下载</a></strong>。   
+     
+    项目描述：这个项目是众包平台。该项目是自己参与比较早的APP项目，主要负责iOS客户端界面的编写。
 
 ---
-2016.7.24 校招更新简历
+2017.1.12 校招更新简历
