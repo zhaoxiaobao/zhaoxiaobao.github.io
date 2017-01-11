@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  个人简历
----                          
+---   
 
+<img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>                       
 ### 基本资料     
 
 **姓名**: 赵远               
 **性别**: 男               
 **生日**: 1994/12/22               
 **学历**: 本科/2017年6月份毕业/CET-4           
-**联系方式**:15261816175/wx:loveforhy/15261816175@139.com
+**联系方式**:15261816175/wx:loveforhy/15261816175@139.com                        
 **求职意向**: iOS研发            
 
 - Github:[打开请戳->(●—●)(150+ star , 40+ followers)](https://github.com/zhaoxiaobao)
