@@ -4,7 +4,8 @@ title:  个人简历
 ---                          
 
 <img src="/img/1.jpg" align ="right" style="width:120px;height:150px;"/>               
-### 基本资料                              
+### 基本资料    
+                          
 **姓名**: 赵远               
 **性别**: 男               
 **生日**: 1994/12/22               
